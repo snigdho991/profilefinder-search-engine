@@ -1,0 +1,38 @@
+1.	I tried to add profile picture but its not showing
+
+2.	http://prntscr.com/xykcf8 - We dont want to show email here we will show Profession or Field in search result - Email wont be shown in seartch Profile page as well as report page
+
+3.	View report button not working 
+
+4.	http://prntscr.com/xyr59j -  Request to create a report not working
+
+5.	http://prntscr.com/xykhfz - Please put this field in footer 
+
+6.	Search page not responsive
+
+7.	TinyMce text editor not implmeneted 
+
+8.	If we select Field apart from profession in profile then Gender option will not be required nor it will show in profile
+
+9.	Gif option not showing in profile 
+
+10.	Tag - field should be open field http://prntscr.com/xyl56r so that we can type anything
+
+11.	Date of birth - Add N/A option also in Dob if we dont have dob of a person
+
+12.	http://prntscr.com/xylc3c Change this icon with favicon
+
+13.	Just like Profession/field Please add Date of birth/Date of Founding make both of them open field
+
+14.	I cant see any seo feature in profile
+
+15.	Please get the report page ready so that i can tell you all the small changes
+
+16.	Logo and favicon is in the link as well as about us contact us small content and website tagline
+
+17.	http://prntscr.com/xyr8fc in a profile search page please add About us and Contact only on left side of a footer. WE dont want to show any thing else there as of now.
+
+
+
+
+
